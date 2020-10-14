@@ -33,7 +33,7 @@ Once you enter then the devices will be added and created in the DNAC Cluster.
 Press enter for moving back to the “Multiple choices window” 
  
 
-Step4:
+Step5:
 Please Choose option 3, 
 Once you enter then the devices will be assigning to the site that you created in otion1. 
 Press enter for moving back to the “Multiple choices window”. 

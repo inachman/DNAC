@@ -1,0 +1,5 @@
+configure terminal
+snmp-server community public RO
+snmp-server host 172.20.122.205 version 2c public
+end
+write

@@ -13,30 +13,7 @@ There is a 5 simple Steps:
 Please Note that username/Password need to be applicable to all the devices that you want to add the cluster. 
 -	Step5: Assign the Devices to the Site that you have created in Step3 
 
-Step1:
-Please modify the *.txt file - ip_address_pool.txt with the list of devices IP’s.
- 
-Step2:
-Please provide username, Password and Cluster IP. 
- 
-
-
-Step3:
-Please Choose option 1, Provide a name for you site. For example: “Test_Idan”. 
-Once you enter then you will receive that site has been created. 
-Press enter for moving back to the “Multiple choices window” 
- 
-
-Step4:
-Please Choose option 2, Please insert Username/Password and Enable password. (Please note that in case that you don’t have the enable password since you are working with privilege 15 then you provide any password that will be skipped by the Script) 
-Once you enter then the devices will be added and created in the DNAC Cluster. 
-Press enter for moving back to the “Multiple choices window” 
- 
-
-Step5:
-Please Choose option 3, 
-Once you enter then the devices will be assigning to the site that you created in otion1. 
-Press enter for moving back to the “Multiple choices window”. 
+Please Refer to the "User Manual Guide" Provided in the Gereal Foldar: "Basic Tool Control DNA with Rest API based on Python-Manual Guide Instructions Step by Step.pdf"
 
 
 Enjoy 
